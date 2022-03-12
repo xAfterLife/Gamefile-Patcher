@@ -244,7 +244,7 @@ namespace NostaleLauncher
 
         //Copy start
         //
-        //
+        //I personally think this is a crappy solution instead of adding logic to your DLL - Every server uses one anyways
         //Copy from another Launcher - Owner of CryptoTale wanted this Code to be present
 
         [DllImport("user32.dll", SetLastError = true)]
