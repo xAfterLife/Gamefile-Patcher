@@ -1,0 +1,54 @@
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\NostaleLauncher.exe.config
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\NostaleLauncher.exe
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\NostaleLauncher.pdb
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\Reloaded.Memory.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\Reloaded.Memory.Buffers.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\System.Buffers.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\System.Memory.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\System.Numerics.Vectors.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\System.Text.Encodings.Web.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\System.Text.Json.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\bin\Release\System.ValueTuple.xml
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.csproj.SuggestedBindingRedirects.cache
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.csproj.GenerateResource.cache
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.csproj.CoreCompileInputs.cache
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.csproj.Fody.CopyLocal.cache
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.csproj.CopyComplete
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.exe
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.pdb
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.csproj.AssemblyReference.cache
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.Forms.Accounts.resources
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.Properties.Resources.resources
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.RES.resources
+D:\Programmieren\CrystalNos-Launcher\CrystalNos-Launcher\obj\Release\NostaleLauncher.Forms.Main.resources
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\Nostale - Launcher.exe.config
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\Nostale - Launcher.exe
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\Nostale - Launcher.pdb
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\Reloaded.Memory.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\Reloaded.Memory.Buffers.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\System.Buffers.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\System.Memory.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\System.Numerics.Vectors.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\System.Text.Encodings.Web.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\System.Text.Json.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\bin\Release\System.ValueTuple.xml
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.csproj.AssemblyReference.cache
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.csproj.SuggestedBindingRedirects.cache
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.Forms.Accounts.resources
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.Forms.Main.resources
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.Properties.Resources.resources
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.RES.resources
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.csproj.GenerateResource.cache
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.csproj.CoreCompileInputs.cache
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.csproj.Fody.CopyLocal.cache
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\NostaleLauncher.csproj.CopyComplete
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\Nostale - Launcher.exe
+D:\Programmieren\NostaleLauncher\NostaleLauncher\obj\Release\Nostale - Launcher.pdb
