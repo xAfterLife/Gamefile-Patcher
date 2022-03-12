@@ -100,7 +100,7 @@ namespace AdminPanel.Forms
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(776, 30);
             this.btnStart.TabIndex = 6;
-            this.btnStart.Text = "JSON-Dateien erstellen";
+            this.btnStart.Text = "Create JSON-Files";
             this.btnStart.UseVisualStyleBackColor = false;
             this.btnStart.Click += new System.EventHandler(this.BtnStart_Click);
             // 
